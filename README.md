@@ -2,7 +2,7 @@
 
   - 👀 I’m interested in Analysis data.
   - 🌱 I’m Actively looking For Job as Data Analyst, Data Engineer, Business Analyst, Data Scientist.
-  - 💞️ I’m looking to collaborate on Python Project.
+  - 💞️ I’m looking to collaborate on Data Analysis & Data Scientist Skills.
   - 📫 How to reach me : linkedin.com/in/abhishek-dehankar-5846aa240
 
 <!---
